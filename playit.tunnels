@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "please-licensing.gl.joinmc.link",
-          "assigned_srv": "please-licensing.gl.joinmc.link",
+          "assigned_domain": "late-portland.gl.joinmc.link",
+          "assigned_srv": "late-portland.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "4c8f27a9-6c2e-4044-8aa2-3a97d83888ef",
-          "ip_hostname": "21.ip.gl.ply.gg",
+          "id": "79599b60-42d1-4297-a391-d02a79cd5e70",
+          "ip_hostname": "23.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 42498,
-          "port_start": 42497,
+          "port_end": 55821,
+          "port_start": 55820,
           "region": "global",
-          "static_ip4": "147.185.221.21",
-          "tunnel_ip": "2602:fbaf:0:1::15"
+          "static_ip4": "147.185.221.23",
+          "tunnel_ip": "2602:fbaf:0:1::17"
         },
         "status": "allocated"
       },
-      "created_at": "2024-11-11T06:01:42.592126Z",
+      "created_at": "2024-11-11T18:03:26.455132Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "d0011d35-bb68-445d-8767-b03b068f61f5",
+      "id": "4739ce3b-b785-4c32-a607-eea9ca7c1cac",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "82e1006e-4feb-45f8-8b6d-fb9ef73dcdf0",
-          "agent_name": "Zarpita Land",
+          "agent_id": "957516fa-19db-4d54-a74c-1b5787ec981a",
+          "agent_name": "from-key-8754",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
